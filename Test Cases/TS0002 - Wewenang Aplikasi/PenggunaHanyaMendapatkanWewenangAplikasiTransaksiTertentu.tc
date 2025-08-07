@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PenggunaHanyaMendapatkanWewenangAplikasiTransaksiTertentu</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>335c4450-96d1-4360-8a5e-35d705700d34</testCaseGuid>
+</TestCaseEntity>

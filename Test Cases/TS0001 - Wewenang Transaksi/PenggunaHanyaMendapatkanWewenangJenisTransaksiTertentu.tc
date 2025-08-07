@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PenggunaHanyaMendapatkanWewenangJenisTransaksiTertentu</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bea2b61d-d8eb-4c7f-aa2a-67c58225a557</testCaseGuid>
+</TestCaseEntity>

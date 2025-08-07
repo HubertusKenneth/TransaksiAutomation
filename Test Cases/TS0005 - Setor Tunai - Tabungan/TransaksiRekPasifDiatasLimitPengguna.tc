@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TransaksiRekPasifDiatasLimitPengguna</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4a919569-5199-47ff-aa61-c985c31db15f</testCaseGuid>
+</TestCaseEntity>

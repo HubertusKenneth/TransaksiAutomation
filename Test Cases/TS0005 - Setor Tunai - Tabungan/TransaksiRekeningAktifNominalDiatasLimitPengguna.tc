@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TransaksiRekeningAktifNominalDiatasLimitPengguna</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>95631cb4-efe2-4433-a502-ca77b3be751a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TransaksiRekAktifPemilikJatuhTempo</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8f2f7a0b-1ac6-4ff0-ae32-63b0f5d19d17</testCaseGuid>
+</TestCaseEntity>

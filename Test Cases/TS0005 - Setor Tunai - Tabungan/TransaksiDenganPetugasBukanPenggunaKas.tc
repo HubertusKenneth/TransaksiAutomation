@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TransaksiDenganPetugasBukanPenggunaKas</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c328c908-a401-4cf5-a003-6401fb2e630e</testCaseGuid>
+</TestCaseEntity>

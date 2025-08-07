@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TransaksiDenganRekeningPasif</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c4a9b98e-9195-4a1c-a4ab-fa7f5a12c451</testCaseGuid>
+</TestCaseEntity>
