@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_SETOR TUNAI</name>
+   <tag></tag>
+   <elementGuidId>3da7a6dc-f1b9-484e-8afb-d110d575b108</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='xui.UI.List-CAPTION:e:a']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;SETOR TUNAI&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c447614a-4721-43ec-9200-3325914421c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>xui.UI.List-CAPTION:e:a</value>
+      <webElementGuid>1d235e2a-077a-499a-8742-3a59484335e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xui-node xui-node-span xui-list-caption     xui-custom</value>
+      <webElementGuid>e8925585-af25-468c-a7e1-10329d6382ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SETOR TUNAI</value>
+      <webElementGuid>68d6aee9-4ea4-467b-8c7f-276f539d2598</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;xui.UI.List-CAPTION:e:a&quot;)</value>
+      <webElementGuid>4eadd9e4-5ded-41d5-b895-40dae652bf97</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='xui.UI.List-CAPTION:e:a']</value>
+      <webElementGuid>bbe78378-5360-44c7-be41-e4079c87f8ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='xui.UI.List-ITEM:e:a']/span[4]</value>
+      <webElementGuid>e0d0cf66-42ce-44b2-8bc0-c4af9bcedd23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create New Favorite'])[1]/following::span[8]</value>
+      <webElementGuid>4062299a-7ab4-46ab-b5a3-dd8b3a694a79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='From: USER'])[1]/following::span[18]</value>
+      <webElementGuid>7c4ed4f1-1845-4570-9ffb-6cbb2c6c0c45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TARIK TUNAI'])[1]/preceding::span[7]</value>
+      <webElementGuid>149f0ded-d3bc-4050-8a79-6aef9b019b4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PEMINDAHBUKUAN'])[1]/preceding::span[15]</value>
+      <webElementGuid>b60bcea0-bf9b-4886-a20a-6d946b817e96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SETOR TUNAI']/parent::*</value>
+      <webElementGuid>581f13c4-ae28-4e20-b6bd-b09ad21c6ac9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/span/span[4]</value>
+      <webElementGuid>77acd905-ff2e-4d1d-a509-ff46f861f6f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'xui.UI.List-CAPTION:e:a' and (text() = 'SETOR TUNAI' or . = 'SETOR TUNAI')]</value>
+      <webElementGuid>ceb75667-a7c3-4ae4-bbc3-292d21188352</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

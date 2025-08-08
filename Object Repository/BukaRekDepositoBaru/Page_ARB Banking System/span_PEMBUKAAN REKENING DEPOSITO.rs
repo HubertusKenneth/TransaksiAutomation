@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_PEMBUKAAN REKENING DEPOSITO</name>
+   <tag></tag>
+   <elementGuidId>8268e643-6704-4b93-bd5c-345a9331d36e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='xui.UI.Dialog-CAPTION:h:']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;PEMBUKAAN REKENING DEPOSITO&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fd1b82be-e9b5-43c4-b631-a1eb1eec6743</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>614447d0-9a11-427d-9d3b-14b0ba4e7f3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>xui.UI.Dialog-CAPTION:h:</value>
+      <webElementGuid>bbafc64a-3f21-407d-91ae-4889a92313b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xui-node xui-node-span xui-dialog-caption xui-title-node     xui-custom</value>
+      <webElementGuid>57c9fe06-e228-4ed1-996c-f89121399e53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PEMBUKAAN REKENING DEPOSITO</value>
+      <webElementGuid>eece2d02-685e-4c73-9e52-7b2b1e96be3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;xui.UI.Dialog-CAPTION:h:&quot;)</value>
+      <webElementGuid>6852f302-f2c1-4543-869d-8a57cda20517</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='xui.UI.Dialog-CAPTION:h:']</value>
+      <webElementGuid>cbdd6dad-b413-48bd-b13b-e9f4146cf3d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='xui.UI.Dialog-BARCMDL:h:']/span[4]</value>
+      <webElementGuid>f98aa7f7-32a1-44c7-8c05-5d22faa5898a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='c'])[1]/following::span[20]</value>
+      <webElementGuid>96b2c485-493e-42bd-8476-1eb532d2a732</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[1]/following::span[23]</value>
+      <webElementGuid>de66dbbe-ee41-4c8e-80a9-841701e60c51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Instansi'])[1]/preceding::span[22]</value>
+      <webElementGuid>addc69aa-8867-4876-9f83-a89158993796</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Bank'])[1]/preceding::span[61]</value>
+      <webElementGuid>bfefbe7a-c5ee-43e7-9c50-4362f64f11d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='PEMBUKAAN REKENING DEPOSITO']/parent::*</value>
+      <webElementGuid>bfd3ad4f-a1ba-4e17-8bf7-c288bec69215</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span/span/span/div/div/span[4]</value>
+      <webElementGuid>775a7f83-dd9e-459e-9916-207492f0fa16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'xui.UI.Dialog-CAPTION:h:' and (text() = 'PEMBUKAAN REKENING DEPOSITO' or . = 'PEMBUKAAN REKENING DEPOSITO')]</value>
+      <webElementGuid>414a3c98-5835-40fa-9f69-2824b994c606</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

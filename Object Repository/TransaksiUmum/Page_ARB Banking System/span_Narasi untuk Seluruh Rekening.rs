@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Narasi untuk Seluruh Rekening</name>
+   <tag></tag>
+   <elementGuidId>c7ce28e0-b07a-4c3a-9a3f-285b7056df0b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='xui.UI.CheckBox-CAPTION:c:']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Narasi untuk Seluruh Rekening&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e5304bad-d4da-4fe5-8132-78921a021e6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>xui.UI.CheckBox-CAPTION:c:</value>
+      <webElementGuid>47a3297f-dd31-4192-89c3-57c7fb13d79b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xui-node xui-node-span xui-checkbox-caption     xui-custom</value>
+      <webElementGuid>6040d928-c28e-4e22-b674-984a44c0ed64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Narasi untuk Seluruh Rekening</value>
+      <webElementGuid>3dfab8bd-f3af-4bb0-add0-4a121875dc58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;xui.UI.CheckBox-CAPTION:c:&quot;)</value>
+      <webElementGuid>e0659893-3510-4f70-b50d-f9b41cf5d966</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='xui.UI.CheckBox-CAPTION:c:']</value>
+      <webElementGuid>f4fbfcaa-e6f0-4fb9-a9ae-cd5d0bfd520c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='xui.UI.CheckBox-FOCUS:c:']/span[3]</value>
+      <webElementGuid>e3deb1e6-689e-4711-bce5-05a79a5ff546</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Handphone**'])[1]/following::span[9]</value>
+      <webElementGuid>7db07bac-556c-45a2-a5c3-439a52e78832</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama**'])[1]/following::span[18]</value>
+      <webElementGuid>3993b6f5-410c-4cbf-a068-ebc46cf1a37d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DATA REKENING'])[1]/preceding::span[9]</value>
+      <webElementGuid>59cc2004-5ae4-4437-9711-40e745246752</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Pemilik Rekening'])[1]/preceding::span[12]</value>
+      <webElementGuid>91f0ae6b-d52a-49cc-aaf8-ea378f19af30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Narasi untuk Seluruh Rekening']/parent::*</value>
+      <webElementGuid>0b01378c-909d-4b98-8954-90370a40e1f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span[2]/span[3]</value>
+      <webElementGuid>3c67b28f-797c-45cd-8114-4fa737c5628f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'xui.UI.CheckBox-CAPTION:c:' and (text() = 'Narasi untuk Seluruh Rekening' or . = 'Narasi untuk Seluruh Rekening')]</value>
+      <webElementGuid>dfdd4003-3e7c-49a6-824d-d022c1abda79</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

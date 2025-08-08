@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TransaksiAntarCabangAktif</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4018d234-4143-418f-b383-1415f4cf28f5</testCaseGuid>
+</TestCaseEntity>

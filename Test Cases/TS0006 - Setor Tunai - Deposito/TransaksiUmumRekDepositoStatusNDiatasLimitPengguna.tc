@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TransaksiUmumRekDepositoStatusNDiatasLimitPengguna</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c6ee3cdc-2042-4013-9298-aada5cc8663f</testCaseGuid>
+</TestCaseEntity>

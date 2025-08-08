@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>font_chromeflagsenable-webrtc-hide-local-ip_6fc727 (1)</name>
+   <tag></tag>
+   <elementGuidId>188c4062-5535-41eb-9fe3-53cd1bd8e306</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='xui.UI.Div:u:']/b/font</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;chrome://flags/#enable-webrtc-hide-local-ips-with-mdns&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>font</value>
+      <webElementGuid>94d82929-ad71-469e-925a-485ab4887174</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>red</value>
+      <webElementGuid>d1ba7158-e2ec-46f4-a58f-b4546734c7fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>    chrome://flags/#enable-webrtc-hide-local-ips-with-mdns</value>
+      <webElementGuid>43fb2d1a-a754-4b3f-9bee-8432373e1343</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;xui.UI.Div:u:&quot;)/b[1]/font[1]</value>
+      <webElementGuid>45dd74bf-114e-429b-bcbf-c0121c6ae0ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='xui.UI.Div:u:']/b/font</value>
+      <webElementGuid>8a8b0565-0ae5-4d7d-ba04-92e14d03ff03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='O K'])[2]/following::font[1]</value>
+      <webElementGuid>e4af7f4d-daf2-4761-9fde-259890ff211f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IP Tidak Terdeteksi'])[1]/following::font[1]</value>
+      <webElementGuid>0cc1fd47-0e6d-43a9-935e-084f44fd21dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anonymize local IPs exposed by WebRTC.'])[1]/preceding::font[1]</value>
+      <webElementGuid>bbde7d92-c1e0-47d3-b987-cf9e7d9085fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Disabled'])[1]/preceding::font[2]</value>
+      <webElementGuid>65aa1df8-9f9a-453a-aaf5-88aabcaf4803</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/b/font</value>
+      <webElementGuid>e01dc49b-5472-497d-9283-af2e9b18a85a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//font[(text() = '    chrome://flags/#enable-webrtc-hide-local-ips-with-mdns' or . = '    chrome://flags/#enable-webrtc-hide-local-ips-with-mdns')]</value>
+      <webElementGuid>7cf10036-1a73-4d82-9f0a-c78a2423c583</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

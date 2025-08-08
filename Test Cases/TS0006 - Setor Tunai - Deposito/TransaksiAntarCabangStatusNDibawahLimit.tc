@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TransaksiAntarCabangStatusNDibawahLimit</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bd6454bb-0010-4618-946a-bcf2482f6c7a</testCaseGuid>
+</TestCaseEntity>

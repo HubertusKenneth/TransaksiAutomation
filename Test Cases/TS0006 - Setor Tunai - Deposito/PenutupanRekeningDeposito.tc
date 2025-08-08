@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PenutupanRekeningDeposito</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e2968269-32c3-4d9b-8b12-3151cc04780c</testCaseGuid>
+</TestCaseEntity>

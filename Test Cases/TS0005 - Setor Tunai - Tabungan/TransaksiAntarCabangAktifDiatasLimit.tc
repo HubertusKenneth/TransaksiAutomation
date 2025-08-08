@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TransaksiAntarCabangAktifDiatasLimit</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>436e1aa0-347a-4c4d-a50d-8635566ac96a</testCaseGuid>
+</TestCaseEntity>

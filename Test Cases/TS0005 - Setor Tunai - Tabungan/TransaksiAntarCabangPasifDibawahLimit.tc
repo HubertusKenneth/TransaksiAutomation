@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TransaksiAntarCabangPasifDibawahLimit</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>033d1d75-2815-4789-8f9b-aa1bdf645e81</testCaseGuid>
+</TestCaseEntity>

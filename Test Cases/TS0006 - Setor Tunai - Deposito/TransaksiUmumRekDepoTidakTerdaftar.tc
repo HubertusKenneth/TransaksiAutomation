@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TransaksiUmumRekDepoTidakTerdaftar</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>77b67b51-9067-4cbd-99c0-a39980c19a21</testCaseGuid>
+</TestCaseEntity>

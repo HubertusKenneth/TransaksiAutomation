@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PembukaanRekeningDeposito</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a3935f29-5dc7-4e4c-a9dd-00add2cc137b</testCaseGuid>
+</TestCaseEntity>

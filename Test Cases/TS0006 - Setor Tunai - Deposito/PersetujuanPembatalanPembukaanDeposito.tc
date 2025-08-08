@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PersetujuanPembatalanPembukaanDeposito</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b580b055-9f13-4fcf-af3c-1fbde5633a5a</testCaseGuid>
+</TestCaseEntity>

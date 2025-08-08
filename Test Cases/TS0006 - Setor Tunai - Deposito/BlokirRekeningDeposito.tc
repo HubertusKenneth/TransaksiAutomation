@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BlokirRekeningDeposito</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>96fc9ed1-d48f-4b35-82fe-363b744fc3ed</testCaseGuid>
+</TestCaseEntity>

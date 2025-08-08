@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TransaksiInputNarasiUntukSeluruhRekening</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>69dc2059-9181-415f-ba9f-809a4836495e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TransaksiRekeningBerjangka</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d6bb4f8e-c95d-4e80-94f6-ebb45c86fae8</testCaseGuid>
+</TestCaseEntity>

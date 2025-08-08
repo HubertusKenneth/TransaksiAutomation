@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PembatalanPembukaanDeposito</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bb5854c8-f42f-4c53-aae7-f36129fc6641</testCaseGuid>
+</TestCaseEntity>
